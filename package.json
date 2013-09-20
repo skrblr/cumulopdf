@@ -1,0 +1,25 @@
+{
+  "name": "cumulopdf",
+  "version": "0.0.0",
+  "description": "cumulopdf =========",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.4.0",
+    "coffee-script": "~1.6.3",
+    "mongoose": "~3.6.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "coffee -w app.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/skrblr/cumulopdf.git"
+  },
+  "author": "skrblr",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/skrblr/cumulopdf/issues"
+  }
+}
